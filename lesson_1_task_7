@@ -1,0 +1,36 @@
+def num(a):
+    print(a)
+num('1')
+def num(b):
+    print(b)
+num('2')
+def num(c):
+    print(c)
+num('3')
+def num(d):
+    print(d)
+num('4')
+def num(e):
+    print(e)
+num('5')
+def num(f):
+    print(f)
+num('6')
+def num(g):
+    print(g)
+num('7')
+def num(h):
+    print(h)
+num('8')
+def num(i):
+    print(i)
+num('9')
+def num(j):
+    print(j)
+num('0')
+def numbers(a, b, c ,d, e, f, g, h, i, j):
+    print(h, h, j, j, e, e, e, c, e, c, e, sep = '')
+numbers(1,2,3,4,5,6,7,8,9,0) 
+#num(88005553535)
+   
+    
